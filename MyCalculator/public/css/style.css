@@ -1,0 +1,29 @@
+
+
+input[type=button]{
+	background: #5c42f4;
+	/* width: 20%; */
+	/* font-size: 40px; */
+	font-weight: 500;
+	margin: 2%;
+	border-radius: 4px;
+}
+
+input[type=text]{
+	width: 90%;
+	font-size: 20px;
+	border: 2px inset #63079c;
+	border-width: 3px;
+}
+
+body{
+	background-image: url("https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm373batch13-082-kpxk9ngk.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=842a60a88175778613f37f19a46cf861");
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+
+form { 
+margin: 0 auto; 
+width:250px;
+}
